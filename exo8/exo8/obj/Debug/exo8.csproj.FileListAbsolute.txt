@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\lesVariables\exo8\exo8\bin\Debug\exo8.exe.config
+C:\Users\Moi\Desktop\lesVariables\exo8\exo8\bin\Debug\exo8.exe
+C:\Users\Moi\Desktop\lesVariables\exo8\exo8\bin\Debug\exo8.pdb
+C:\Users\Moi\Desktop\lesVariables\exo8\exo8\obj\Debug\exo8.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\lesVariables\exo8\exo8\obj\Debug\exo8.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\lesVariables\exo8\exo8\obj\Debug\exo8.exe
+C:\Users\Moi\Desktop\lesVariables\exo8\exo8\obj\Debug\exo8.pdb
